@@ -1,0 +1,6 @@
+application/node_modules
+application/package-lock.json
+localServer/node_modules
+localServer/package-lock.json
+onlineServer/node_modules
+onlineServer/package-lock.json
